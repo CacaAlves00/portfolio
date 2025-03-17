@@ -1,0 +1,34 @@
+{
+    "projects": 
+    [
+        {
+            "title": "Alimentação Balanceada",
+            "description": "Alimentação Balanceada, a game developed as an assignment for Universidade Tecnológica Federal do Paraná.",
+            "imagemSrc": "/alimentacao-balanceada.png",
+            "githubLink": "https://github.com/CacaAlves00/alimentacao-balanceada",
+            "resourceLink": "https://dainf.pg.utfpr.edu.br/lesicjogos/alibal2"
+        },
+        {
+            "title": "Minecraft Clone",
+            "description": "A Minecraft Clone implemented with React ! Pretty neat stuff.",
+            "imagemSrc": "/minecraft-clone.png",
+            "githubLink": "https://github.com/CacaAlves00/minecraft-clone-react",
+            "resourceLink": "https://carlosminecraftclone.netlify.app/"
+        },
+        {
+            "title": "UTF-Ecommerce",
+            "description": "UTF Ecommerce ;) is a React-based E-commerce website that offers a user-friendly shopping experience.",
+            "imagemSrc": "/utf-commerce.png",
+            "githubLink": "https://github.com/CacaAlves00/UTF-Ecommerce",
+            "resourceLink": "https://utf-ecommerce.vercel.app/"
+        },
+        {
+            "title": "Sales by month",
+            "description": "This project displays a sales chart by month. Users can select categories, products, and brands to analyze the data. It offers an interactive way to track sales trends.",
+            "imagemSrc": "/sales-by-month.png",
+            "githubLink": "https://github.com/CacaAlves00/sales-by-month",
+            "resourceLink": "https://sales-by-month.vercel.app/"
+        }
+        
+    ]
+}

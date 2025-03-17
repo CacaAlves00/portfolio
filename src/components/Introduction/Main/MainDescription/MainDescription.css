@@ -1,0 +1,22 @@
+section#description {
+    margin: 5vh auto 0 auto
+}
+
+section#description #code-mirror {
+    width: 50vw;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    section#description #code-mirror {
+        width: 80vw;
+    }
+}
+
+@media (max-width: 480px) {
+    section#description #code-mirror {
+        width: 78vw;
+        padding: 0;
+        margin: 0 auto;
+    }
+}

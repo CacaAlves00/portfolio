@@ -1,0 +1,39 @@
+article#about {
+    height: 100vh;
+    margin-top: 10vh;
+}
+
+article#about p {
+    width: 60vw;
+    margin: 0 auto;
+    padding: 1vw;
+    border: 1px solid #778DA9;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Responsive styles */
+@media (max-width: 900px) {
+
+    article#about {
+        height: auto;
+    }
+    
+    article#about p {
+        width: 100%;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 600px) {
+    article#about {
+        /* padding: 1rem; */
+    }
+
+    article#about p {
+        width: 100%;
+        font-size: 0.95rem;
+        /* padding: 1rem; */
+    }
+}

@@ -1,0 +1,9 @@
+article#introduction {
+    min-height: 100vh;
+}
+
+@media (max-width: 900px) {
+    article#introduction {
+        min-height: auto;
+    }
+}
